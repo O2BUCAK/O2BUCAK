@@ -112,10 +112,13 @@ Outside of work, I enjoy experimenting with ideas that combine technology with m
 Many of these projects are built with the help of AI-assisted development ("vibe coding"), allowing me to focus on software architecture, workflows, APIs, and problem solving while continuing to improve my technical skills.
 
 | Project | Description |
-|----------|-------------|
-| ⚽ **[Kafadan Taktik](https://kafadantaktik.ozbucak.com.tr)** | A hobby project exploring a turn-based football strategy game inspired by tactical thinking, board games, and football management concepts. |
-| 💰 **[Finans](https://finans.ozbucak.com.tr)** | A playground for personal finance experiments, calculators, and small utility tools. |
+|:---|:---|
+| 📋 **[Kafadan Taktik](https://kafadantaktik.ozbucak.com.tr)** | A hobby project exploring a turn-based football strategy game inspired by tactical thinking, board games, and football management concepts. |
+| 💰 **[Finans](https://finans.ozbucak.com.tr)** | A playground for personal finance experiments, calculators, and small utility tools based on double-entry principles. |
 | ⚽ **[Halı Saha](https://halisaha.ozbucak.com.tr)** | A project exploring the organization and management of amateur football matches and teams. |
+| 👶 **[Minik Akademi](https://minikakademi.ozbucak.com.tr)** | An interactive early childhood learning web application designed for foundational concepts. |
+| 🎬 **[Cinelink](https://cinelink.ozbucak.com.tr)** | A cinema and media content link curation platform. |
+| 🌐 **[Subnet](https://subnet.ozbucak.com.tr)** | A mini web project built to practice and sharpen subnetting & networking logic. |
 
 ---
 
