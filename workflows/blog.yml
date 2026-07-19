@@ -1,22 +1,18 @@
-name: Latest Medium Posts
-
+name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    # Her gün gece yarısı çalışması için cron
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Manuel tetikleme tetiklemek için
 
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://o2bucak.medium.com/feed"
-          max_post_count: 5
-          readme_path: README.md
+          feed_list: "https://medium.com/feed/@o2bucak"
