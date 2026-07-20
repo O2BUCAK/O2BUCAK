@@ -138,8 +138,8 @@ Topics will include:
 
 ### Latest Articles
 
-<!-- MEDIUM-POST-LIST:START -->
-<!-- MEDIUM-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ **Read more:** https://o2bucak.medium.com/
 
