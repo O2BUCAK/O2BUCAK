@@ -139,11 +139,11 @@ Topics will include:
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Güvenli Şifre Oluşturmak Neden Çileye Dönüştü? &lpar;Ve Pratik Bir Çözüm Formülü&rpar;](https://o2bucak.medium.com/g%C3%BCvenli-%C5%9Fifre-olu%C5%9Fturmak-neden-%C3%A7ileye-d%C3%B6n%C3%BC%C5%9Ft%C3%BC-ve-pratik-bir-%C3%A7%C3%B6z%C3%BCm-form%C3%BCl%C3%BC-aaaba0432b50?source=rss-8b34292c093d------2)
 - [Kablo Çekmekten FOSS Tabanlı Bir Home Lab’e: Öğrenme Yolculuğum](https://o2bucak.medium.com/kablo-%C3%A7ekmekten-foss-tabanl%C4%B1-bir-home-labe-%C3%B6%C4%9Frenme-yolculu%C4%9Fum-e183b60c3696?source=rss-8b34292c093d------2)
 - [Herkes İçin Bilgisayar Mantığı — Bölüm 2: Yönetim Katının Gizli Kahramanları](https://o2bucak.medium.com/herkes-i%CC%87%C3%A7in-bilgisayar-mant%C4%B1%C4%9F%C4%B1-b%C3%B6l%C3%BCm-2-y%C3%B6netim-kat%C4%B1n%C4%B1n-gizli-kahramanlar%C4%B1-32cdfa0dd2a9?source=rss-8b34292c093d------2)
 - [Herkes İçin Bilgisayar Mantığı: “Küçük Bir Şirket” Alegorisi](https://o2bucak.medium.com/herkes-i%CC%87%C3%A7in-bilgisayar-mant%C4%B1%C4%9F%C4%B1-k%C3%BC%C3%A7%C3%BCk-bir-%C5%9Firket-alegorisi-ca0bcb701773?source=rss-8b34292c093d------2)
 - [Futbolda Kusursuz Ekosistem vs. Saf İrade.](https://o2bucak.medium.com/futbolda-kusursuz-ekosistem-vs-saf-i%CC%87rade-3b43a853254f?source=rss-8b34292c093d------2)
-- [Başlangıçlar Üzerine](https://o2bucak.medium.com/ba%C5%9Flang%C4%B1%C3%A7lar-%C3%BCzerine-a377f63da90a?source=rss-8b34292c093d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **Read more:** https://o2bucak.medium.com/
