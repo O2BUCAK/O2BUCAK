@@ -139,11 +139,11 @@ Topics will include:
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Herkes İçin Bilgisayar Mantığı — Bölüm 3: Bilgisayar Çeşitleri ve Onu Oluşturan Parçalar](https://o2bucak.medium.com/herkes-i%CC%87%C3%A7in-bilgisayar-mant%C4%B1%C4%9F%C4%B1-b%C3%B6l%C3%BCm-3-bilgisayar-%C3%A7e%C5%9Fitleri-ve-onu-olu%C5%9Fturan-par%C3%A7alar-9b66242270ac?source=rss-8b34292c093d------2)
 - [Kutudan Çıktığı Gibi Bırakılan Güvenlik: Kurulum Ekiplerinin 5 Dakikalık İhmali](https://o2bucak.medium.com/kutudan-%C3%A7%C4%B1kt%C4%B1%C4%9F%C4%B1-gibi-b%C4%B1rak%C4%B1lan-g%C3%BCvenlik-kurulum-ekiplerinin-5-dakikal%C4%B1k-i%CC%87hmali-6a622746e226?source=rss-8b34292c093d------2)
 - [AI Benim Yerime Düşünüyorsa Ne Olmuş?](https://o2bucak.medium.com/ai-benim-yerime-d%C3%BC%C5%9F%C3%BCn%C3%BCyorsa-ne-olmu%C5%9F-d215c9718a7c?source=rss-8b34292c093d------2)
 - [Güvenli Şifre Oluşturmak Neden Çileye Dönüştü? &lpar;Ve Pratik Bir Çözüm Formülü&rpar;](https://o2bucak.medium.com/g%C3%BCvenli-%C5%9Fifre-olu%C5%9Fturmak-neden-%C3%A7ileye-d%C3%B6n%C3%BC%C5%9Ft%C3%BC-ve-pratik-bir-%C3%A7%C3%B6z%C3%BCm-form%C3%BCl%C3%BC-aaaba0432b50?source=rss-8b34292c093d------2)
 - [Kablo Çekmekten FOSS Tabanlı Bir Home Lab’e: Öğrenme Yolculuğum](https://o2bucak.medium.com/kablo-%C3%A7ekmekten-foss-tabanl%C4%B1-bir-home-labe-%C3%B6%C4%9Frenme-yolculu%C4%9Fum-e183b60c3696?source=rss-8b34292c093d------2)
-- [Herkes İçin Bilgisayar Mantığı — Bölüm 2: Yönetim Katının Gizli Kahramanları](https://o2bucak.medium.com/herkes-i%CC%87%C3%A7in-bilgisayar-mant%C4%B1%C4%9F%C4%B1-b%C3%B6l%C3%BCm-2-y%C3%B6netim-kat%C4%B1n%C4%B1n-gizli-kahramanlar%C4%B1-32cdfa0dd2a9?source=rss-8b34292c093d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **Read more:** https://o2bucak.medium.com/
