@@ -213,7 +213,7 @@ https://linkedin.com/in/ersinozbucak
 https://o2bucak.medium.com
 
 🏅 **Credly**  
-https://www.credly.com/users/ersin-bucak
+https://www.credly.com/users/o2bucak
 
 ---
 
