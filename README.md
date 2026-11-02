@@ -204,7 +204,7 @@ You can find my verified certifications and badges on **Credly**.
 # 🤝 Connect With Me
 
 🌍 **Website**  
-https://ozbucak.com.tr
+https://ersin.ozbucak.com.tr
 
 💼 **LinkedIn**  
 https://linkedin.com/in/ersinozbucak
