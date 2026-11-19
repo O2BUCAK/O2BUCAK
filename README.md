@@ -139,11 +139,11 @@ Topics will include:
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Biraz Teknoloji Okuryazarlığı, Çok Daha Az IT Desteği](https://o2bucak.medium.com/biraz-teknoloji-okuryazarl%C4%B1%C4%9F%C4%B1-%C3%A7ok-daha-az-it-deste%C4%9Fi-0000ed968f1a?source=rss-8b34292c093d------2)
 - [Skynet’in İnternet Tatbikatı: Dijital Medeniyetimizin Fişini Kim Çekecek?](https://o2bucak.medium.com/skynetin-i%CC%87nternet-tatbikat%C4%B1-dijital-medeniyetimizin-fi%C5%9Fini-kim-%C3%A7ekecek-3ea4fa8ff2bd?source=rss-8b34292c093d------2)
 - [Kusurlu Senaryolar, Keyifli Filmler ve Eski Usul Sinema](https://o2bucak.medium.com/kusurlu-senaryolar-keyifli-filmler-ve-eski-usul-sinema-da19abd34a5a?source=rss-8b34292c093d------2)
 - [Bir Football Manager Meraklısının Saha Kenarı Macerası](https://o2bucak.medium.com/bir-football-manager-merakl%C4%B1s%C4%B1n%C4%B1n-saha-kenar%C4%B1-maceras%C4%B1-134c96f744de?source=rss-8b34292c093d------2)
 - [Bilgiyi Yeniden Paketleyip Satmak: Eğitim mi, Yoksa İçerik Ticareti mi?](https://o2bucak.medium.com/bilgiyi-yeniden-paketleyip-satmak-e%C4%9Fitim-mi-yoksa-i%CC%87%C3%A7erik-ticareti-mi-350cb83edbeb?source=rss-8b34292c093d------2)
-- [Boş Zamanımda Başarılı Olmak İstemiyorum.](https://o2bucak.medium.com/bo%C5%9F-zaman%C4%B1mda-ba%C5%9Far%C4%B1l%C4%B1-olmak-i%CC%87stemiyorum-a6738129b63a?source=rss-8b34292c093d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **Read more:** https://o2bucak.medium.com/
